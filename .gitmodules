@@ -1,0 +1,27 @@
+[submodule "ai-adm"]
+	path = ai-adm
+	url = https://github.com/cloud-barista/ai-adm
+[submodule "ai-ui"]
+	path = ai-ui
+	url = https://github.com/cloud-barista/ai-ui
+[submodule "ai-ops"]
+	path = ai-ops
+	url = https://github.com/cloud-barista/ai-ops
+[submodule "ai-ha"]
+	path = ai-ha
+	url = https://github.com/cloud-barista/ai-ha
+[submodule "ai-app"]
+	path = ai-app
+	url = https://github.com/cloud-barista/ai-app
+[submodule "ai-o11y"]
+	path = ai-o11y
+	url = https://github.com/cloud-barista/ai-o11y
+[submodule "cb-spider"]
+	path = cb-spider
+	url = https://github.com/cloud-barista/cb-spider
+[submodule "cb-tumblebug"]
+	path = cb-tumblebug
+	url = https://github.com/cloud-barista/cb-tumblebug
+[submodule "cm-beetle"]
+	path = cm-beetle
+	url = https://github.com/cloud-barista/cm-beetle
